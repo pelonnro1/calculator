@@ -5,7 +5,6 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/CadmaticTest/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/pelonnro1.calculator?branchName=master)](https://dev.azure.com/CadmaticTest/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/pelonnro1.calculator?branchName=master)
 
-
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
